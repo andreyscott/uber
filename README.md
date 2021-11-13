@@ -1,4 +1,6 @@
 # uber
-uber
+An uber clone created with React Native using The expo FrameWork
 
-C:\Users\Dennis\AppData\Local\Yarn\bin
+#Currently Unfinished
+
+\AppData\Local\Yarn\bin
