@@ -18,12 +18,6 @@ const data = [
         screen: "OrderScreen"
     },
     {
-        id: 789,
-        title: "Package",
-        image : "https://links.papareact.com/28w",
-        screen: "Package"
-    },
-    {
         id: 101112,
         title: "Rentals",
         image : "https://links.papareact.com/3pn",
